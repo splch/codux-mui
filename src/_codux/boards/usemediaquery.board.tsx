@@ -1,6 +1,5 @@
 import { createBoard } from '@wixc3/react-board';
 import { useMediaQuery, Typography } from '@mui/material';
-import cover from '../covers/usemediaquery-light.png';
 
 export default createBoard({
     name: 'MUIUseMediaQuery',
@@ -17,5 +16,4 @@ export default createBoard({
     },
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

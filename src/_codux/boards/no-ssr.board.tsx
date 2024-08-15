@@ -1,6 +1,5 @@
 import { createBoard } from '@wixc3/react-board';
 import { NoSsr, Typography } from '@mui/material';
-import cover from '../covers/no-ssr-light.png';
 
 export default createBoard({
     name: 'MUINoSsr',
@@ -11,5 +10,4 @@ export default createBoard({
     ),
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

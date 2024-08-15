@@ -1,7 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import { Popper, Button, Typography, Paper } from '@mui/material';
 import { useState, useRef } from 'react';
-import cover from '../covers/popper-light.png';
 
 export default createBoard({
     name: 'MUIPopper',
@@ -36,5 +35,4 @@ export default createBoard({
     },
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

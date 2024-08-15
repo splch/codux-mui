@@ -1,6 +1,5 @@
 import { createBoard } from '@wixc3/react-board';
 import { TextareaAutosize } from '@mui/material';
-import cover from '../covers/textarea-autosize-light.png';
 
 export default createBoard({
     name: 'MUITextareaAutosize',
@@ -14,5 +13,4 @@ export default createBoard({
     ),
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

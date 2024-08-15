@@ -1,7 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import { Modal, Box, Typography, Button } from '@mui/material';
 import { useState } from 'react';
-import cover from '../covers/modal-light.png';
 
 export default createBoard({
     name: 'MUIModal',
@@ -46,5 +45,4 @@ export default createBoard({
     },
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

@@ -1,7 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import { Popover, Button, Typography } from '@mui/material';
 import { useState } from 'react';
-import cover from '../covers/popover-light.png';
 
 export default createBoard({
     name: 'MUIPopover',
@@ -45,5 +44,4 @@ export default createBoard({
     },
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

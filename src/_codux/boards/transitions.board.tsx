@@ -1,7 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import { Fade, Button, Typography } from '@mui/material';
 import { useState } from 'react';
-import cover from '../covers/fade-light.png';
 
 export default createBoard({
     name: 'MUITransitions',
@@ -25,5 +24,4 @@ export default createBoard({
     },
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

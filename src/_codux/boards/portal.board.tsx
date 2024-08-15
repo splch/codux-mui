@@ -1,7 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import { Portal, Button, Typography } from '@mui/material';
 import { useState } from 'react';
-import cover from '../covers/portal-light.png';
 
 export default createBoard({
     name: 'MUIPortal',
@@ -35,5 +34,4 @@ export default createBoard({
     },
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

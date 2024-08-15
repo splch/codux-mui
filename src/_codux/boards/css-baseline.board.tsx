@@ -1,6 +1,5 @@
 import { createBoard } from '@wixc3/react-board';
 import { CssBaseline, Typography, Container } from '@mui/material';
-import cover from '../covers/css-baseline-light.png';
 
 export default createBoard({
     name: 'MUICssBaseline',
@@ -20,5 +19,4 @@ export default createBoard({
     ),
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });

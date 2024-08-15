@@ -1,7 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import { ClickAwayListener, Button, Typography } from '@mui/material';
 import { useState } from 'react';
-import cover from '../covers/click-away-listener-light.png';
 
 export default createBoard({
     name: 'MUIClickAwayListener',
@@ -29,5 +28,4 @@ export default createBoard({
     },
     isSnippet: true,
     tags: ['Utils', 'MUI'],
-    cover: cover,
 });
