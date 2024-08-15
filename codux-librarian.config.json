@@ -2,7 +2,7 @@
     "buildDir": "package",
     "boardsPath": "src/_codux/boards",
     "libraryName": "MUI Library",
-    "libraryIcon": "src/assets/icons/mui.png",
-    "packageName": "@myorg/mui-library",
+    "libraryIcon": "src/assets/mui.svg",
+    "packageName": "@splch/codux-mui",
     "packageVersion": "1.0.0"
 }
