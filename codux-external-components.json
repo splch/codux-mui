@@ -1,0 +1,297 @@
+[
+    {
+        "name": "Material UI",
+        "components": [
+            {
+                "filePath": "@mui/material",
+                "exportName": "Autocomplete",
+                "name": "Autocomplete"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Button",
+                "name": "Button"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "ButtonGroup",
+                "name": "Button Group"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Checkbox",
+                "name": "Checkbox"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Fab",
+                "name": "Floating Action Button"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "RadioGroup",
+                "name": "Radio Group"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Rating",
+                "name": "Rating"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Select",
+                "name": "Select"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Slider",
+                "name": "Slider"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Switch",
+                "name": "Switch"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "TextField",
+                "name": "Text Field"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "TransferList",
+                "name": "Transfer List"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "ToggleButton",
+                "name": "Toggle Button"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Avatar",
+                "name": "Avatar"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Badge",
+                "name": "Badge"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Chip",
+                "name": "Chip"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Divider",
+                "name": "Divider"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Icon",
+                "name": "Icon"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "MaterialIcons",
+                "name": "Material Icons"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "List",
+                "name": "List"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Table",
+                "name": "Table"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Tooltip",
+                "name": "Tooltip"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Typography",
+                "name": "Typography"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Alert",
+                "name": "Alert"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Backdrop",
+                "name": "Backdrop"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Dialog",
+                "name": "Dialog"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "CircularProgress",
+                "name": "Progress"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Skeleton",
+                "name": "Skeleton"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Snackbar",
+                "name": "Snackbar"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Accordion",
+                "name": "Accordion"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "AppBar",
+                "name": "App Bar"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Card",
+                "name": "Card"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Paper",
+                "name": "Paper"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "BottomNavigation",
+                "name": "Bottom Navigation"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Breadcrumbs",
+                "name": "Breadcrumbs"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Drawer",
+                "name": "Drawer"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Link",
+                "name": "Link"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Menu",
+                "name": "Menu"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Pagination",
+                "name": "Pagination"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "SpeedDial",
+                "name": "Speed Dial"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Stepper",
+                "name": "Stepper"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Tabs",
+                "name": "Tabs"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Box",
+                "name": "Box"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Container",
+                "name": "Container"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Grid",
+                "name": "Grid"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Grid2",
+                "name": "Grid v2"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Stack",
+                "name": "Stack"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "ImageList",
+                "name": "Image List"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "ClickAwayListener",
+                "name": "Click-Away Listener"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "CssBaseline",
+                "name": "CSS Baseline"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Modal",
+                "name": "Modal"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "NoSsr",
+                "name": "No SSR"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Popover",
+                "name": "Popover"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Popper",
+                "name": "Popper"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "Portal",
+                "name": "Portal"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "TextareaAutosize",
+                "name": "Textarea Autosize"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "TransitionGroup",
+                "name": "Transitions"
+            },
+            {
+                "filePath": "@mui/material",
+                "exportName": "useMediaQuery",
+                "name": "useMediaQuery"
+            }
+        ]
+    }
+]
