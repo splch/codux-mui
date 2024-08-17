@@ -4,5 +4,5 @@
     "libraryName": "Material UI",
     "libraryIcon": "src/assets/mui.svg",
     "packageName": "@splch/codux-mui",
-    "packageVersion": "1.0.1"
+    "packageVersion": "1.0.2"
 }
