@@ -1,8 +1,8 @@
 {
     "buildDir": "package",
     "boardsPath": "src/_codux/boards",
-    "libraryName": "MUI Library",
+    "libraryName": "Material UI",
     "libraryIcon": "src/assets/mui.svg",
     "packageName": "@splch/codux-mui",
-    "packageVersion": "1.0.0"
+    "packageVersion": "1.0.1"
 }
